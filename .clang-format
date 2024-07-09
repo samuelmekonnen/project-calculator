@@ -91,7 +91,7 @@ UseTab: Never
 #BreakInheritanceList: AfterColon
 #Language: None
 #ObjCBinPackProtocolList: Auto
-#PenaltyBreakTemplateDeclaration: 10
+#PenaltyBreakTemplateDeclaration: 11
 #SpaceBeforeCpp11BracedList: false
 #SpaceBeforeCtorInitializerColon: true
 #SpaceBeforeInheritanceColon: true
